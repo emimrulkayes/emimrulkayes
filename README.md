@@ -4,16 +4,16 @@ I'm :boy:IMRUL KAYES, a Professional Web Developer from Bangladesh. I spend most
 Besides these, I'm a Muslim who believes in :heart:Allah and the :heart:Prophet Mohammad (sa:).
 
 ### :computer: Connect with me!
-<a href="https://www.facebook.com/eimrulkayes/">
+<a href="https://www.facebook.com/eimrulkayes/" target="blank">
     <img src="./images/fb.svg" style="max-width: 100%; margin-right: 10px;" >
 </a> 
-<a href="https://www.linkedin.com/in/emimrulkayes/">
+<a href="https://www.linkedin.com/in/emimrulkayes/" target="blank">
     <img src="./images/linkedin.svg" style="max-width: 100%; margin-right: 10px;" >
 </a> 
-<a href="https://twitter.com/emimrulkayes/">
+<a href="https://twitter.com/emimrulkayes/" target="blank">
     <img src="./images/twitter.svg" style="max-width: 100%; margin-right: 10px;" >
 </a> 
-<a href="mailto:emimrulkayes@gmail.com">
+<a href="mailto:emimrulkayes@gmail.com" target="blank">
     <img src="./images/gmail.svg" style="max-width: 100%; margin-right: 10px; " >
 </a> 
 <br>
@@ -29,7 +29,7 @@ Besides these, I'm a Muslim who believes in :heart:Allah and the :heart:Prophet 
 <img src="./images/sass.svg" style="margin-right: 10px;" > <img src="./images/js.svg" style="margin-right: 10px;" > <img src="./images/react.svg" style="margin-right: 10px;" > <img src="./images/express.svg" style="margin-right: 10px;" > <img src="./images/mongo.svg" style="margin-right: 10px;" > <img src="./images/node.svg" style="margin-right: 10px;" > <img src="./images/vs.svg" style="margin-right: 10px;" > <img src="./images/git.svg" style="margin-right: 10px;" >
 
 ### I Learn code with:
-<a href="https://web.programming-hero.com/">
+<a href="https://web.programming-hero.com/" target="blank">
     <img src="./images/ph.png" style="max-width: 100%; margin-right: 10px; " >
 </a> 
 
