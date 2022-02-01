@@ -1,6 +1,7 @@
 ### Hello there 👋
-I'm :boy:IMRUL KAYES, a Professional Web Developer from <a href=""><img src="./images/bangladesh.png" style="display: inline-block"></a> Bangladesh. I spend most of my time coding outstanding projects and learning new code. <br>
-Besides these, I'm a Muslim who believes in :heart:Allah:heart: and the :heart:Prophet Mohammad (sa:).:heart:
+I'm :boy:IMRUL KAYES, a Professional Web Developer from Bangladesh. I spend most of my time coding outstanding projects and learning new code. <br>
+
+Besides these, I'm a Muslim who believes in :heart:Allah and the :heart:Prophet Mohammad (sa:).
 
 ### :computer: Connect with me!
 <a href="https://www.facebook.com/eimrulkayes/">
