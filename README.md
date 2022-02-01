@@ -1,5 +1,6 @@
 ### Hello there 👋
-I'm :boy:IMRUL KAYES, a Frontend Web Developer from Bangladesh. I spend most of my time coding outstanding projects and learning new code.
+I'm :boy:IMRUL KAYES, a Professional Web Developer from <a href=""><img src="./images/bangladesh.png" style="display: inline-block"></a> Bangladesh. I spend most of my time coding outstanding projects and learning new code. <br>
+Besides these, I'm a Muslim who believes in :heart:Allah:heart: and the :heart:Prophet Mohammad (sa:).:heart:
 
 ### :computer: Connect with me!
 <a href="https://www.facebook.com/eimrulkayes/">
@@ -24,7 +25,12 @@ I'm :boy:IMRUL KAYES, a Frontend Web Developer from Bangladesh. I spend most of 
 <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png"></p>
 
 ### Things I code with:
-<img src="./images/js.svg" style="margin-right: 10px;" > <img src="./images/react.svg" style="margin-right: 10px;" > <img src="./images/express.svg" style="margin-right: 10px;" > <img src="./images/mongo.svg" style="margin-right: 10px;" > <img src="./images/node.svg" style="margin-right: 10px;" > <img src="./images/sass.svg" style="margin-right: 10px;" > <img src="./images/vs.svg" style="margin-right: 10px;" > <img src="./images/git.svg" style="margin-right: 10px;" >
+<img src="./images/sass.svg" style="margin-right: 10px;" > <img src="./images/js.svg" style="margin-right: 10px;" > <img src="./images/react.svg" style="margin-right: 10px;" > <img src="./images/express.svg" style="margin-right: 10px;" > <img src="./images/mongo.svg" style="margin-right: 10px;" > <img src="./images/node.svg" style="margin-right: 10px;" > <img src="./images/vs.svg" style="margin-right: 10px;" > <img src="./images/git.svg" style="margin-right: 10px;" >
+
+### I Learn code with:
+<a href="https://web.programming-hero.com/">
+    <img src="./images/ph.png" style="max-width: 100%; margin-right: 10px; " >
+</a> 
 
 
 <!--
