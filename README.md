@@ -22,11 +22,9 @@ I'm :boy:IMRUL KAYES, a Frontend Web Developer from Bangladesh. I spend most of 
 <g-emoji class="g-emoji" alias="thinking" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png">🤔</g-emoji>  I’m looking for people who can help me with Outstanding Video ideas and executions.<br>
 <g-emoji class="g-emoji" alias="email" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e7.png">📧</g-emoji>  How to reach me: <a href="mailto:emimrulkayes@gmail.com">emimrulkayes@gmail.com</a>.<br>
 <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png"></p>
-<br>
-<br>
 
 ### Things I code with:
-<img src="./images/js.svg" style="margin-right: 10px;" > <img src="./images/react.svg" style="margin-right: 10px;" > <img src="./images/express.svg" style="margin-right: 10px;" > <img src="./images/mongo.svg" style="margin-right: 10px;" ><img src="./images/node.svg" style="margin-right: 10px;" > <img src="./images/sass.svg" style="margin-right: 10px;" > <img src="./images/vs.svg" style="margin-right: 10px;" > <img src="./images/git.svg" style="margin-right: 10px;" >
+<img src="./images/js.svg" style="margin-right: 10px;" > <img src="./images/react.svg" style="margin-right: 10px;" > <img src="./images/express.svg" style="margin-right: 10px;" > <img src="./images/mongo.svg" style="margin-right: 10px;" > <img src="./images/node.svg" style="margin-right: 10px;" > <img src="./images/sass.svg" style="margin-right: 10px;" > <img src="./images/vs.svg" style="margin-right: 10px;" > <img src="./images/git.svg" style="margin-right: 10px;" >
 
 
 <!--
