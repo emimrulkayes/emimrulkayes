@@ -2,7 +2,9 @@
 I'm :boy:IMRUL KAYES, a Frontend Web Developer from Bangladesh. I spend most of my time coding outstanding projects and learning new code.
 
 ### :computer: Connect with me!
-<a href="https://www.facebook.com/eimrulkayes/"> Facebook </a> 
+<a href="https://www.facebook.com/eimrulkayes/">
+    <img src="./images/fb.svg" style="max-width: 100%" >
+</a> 
 <a href="https://www.linkedin.com/in/emimrulkayes/"> LinkedIn </a> 
 <a href="https://twitter.com/emimrulkayes/"> Twitter </a> 
 
