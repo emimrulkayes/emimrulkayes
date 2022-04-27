@@ -14,6 +14,9 @@ Besides these, I'm a Muslim who believes in :heart:Allah and, the :heart:Prophet
     <img src="./images/twitter.svg" style="max-width: 100%; margin-right: 10px;" >
 </a> 
 <a href="mailto:emimrulkayes@gmail.com" target="blank">
+    <img src="./images/skype.svg" style="max-width: 100%; margin-right: 10px; " >
+</a> 
+<a href="mailto:emimrulkayes@gmail.com" target="blank">
     <img src="./images/gmail.svg" style="max-width: 100%; margin-right: 10px; " >
 </a> 
 <br>
