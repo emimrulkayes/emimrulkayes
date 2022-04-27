@@ -30,8 +30,7 @@ Besides these, I'm a Muslim who believes in :heart:Allah and, the :heart:Prophet
 
 
 ### 🌱 I Learn code with:
-<a href="https://web.programming-hero.com/" target="blank"> <img src="./images/ph.png" style="max-width: 100%; margin-right: 10px; " > </a> 
-<a href="https://www.freecodecamp.org/" target="blank"> <img src="./images/freecodecamp.jpg" style="max-width: 100%; margin-right: 10px; " > </a> 
+<a href="https://web.programming-hero.com/" target="blank"> <img src="./images/ph.png" style="max-width: 100%; margin-right: 10px; " > </a> <a href="https://www.freecodecamp.org/" target="blank"> <img src="./images/freecodecamp.jpg" style="max-width: 100%; margin-right: 10px; " > </a> 
 
 
 <!--
