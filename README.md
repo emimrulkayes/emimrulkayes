@@ -16,7 +16,9 @@ Besides these, I'm a Muslim who believes in :heart:Allah and, the :heart:Prophet
 <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png"></p>
 
 ### :computer: Things I code with:
-<img src="./images/code/html.svg" style="margin-right: 10px;" > <img src="./images/code/css.svg" style="margin-right: 10px;" > <img src="./images/code/bootstrap.svg" style="margin-right: 10px;" > <img src="./images/code/scss.svg" style="margin-right: 10px;" > <img src="./images/code/JS.svg" style="margin-right: 10px;" > <img src="./images/code/react.svg" style="margin-right: 10px;" > <img src="./images/code/node.svg" style="margin-right: 10px;" > <img src="./images/code/express.svg" style="margin-right: 10px;" > <img src="./images/code/Mongodb.svg" style="margin-right: 10px;" >
+<img src="./images/code/html.svg" style="margin-right: 10px;" > <img src="./images/code/css.svg" style="margin-right: 10px;" > <img src="./images/code/bootstrap.svg" style="margin-right: 10px;" > <img src="./images/code/scss.svg" style="margin-right: 10px;" > <br/>
+<img src="./images/code/JS.svg" style="margin-right: 10px;" > <img src="./images/code/react.svg" style="margin-right: 10px;" > <img src="./images/code/node.svg" style="margin-right: 10px;" > <img src="./images/code/express.svg" style="margin-right: 10px;" > <br/>
+<img src="./images/code/Mongodb.svg" style="margin-right: 10px;" >
 
 ### 🌱 I Learn code with:
 <a href="https://web.programming-hero.com/" target="blank">
