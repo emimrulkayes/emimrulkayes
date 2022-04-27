@@ -4,20 +4,23 @@ I'm :boy:IMRUL KAYES, a Professional Web Developer from Bangladesh. I spend most
 Besides these, I'm a Muslim who believes in :heart:Allah and, the :heart:Prophet Mohammad (sa:).
 
 ### :computer: Connect with me!
-<a href="https://www.facebook.com/eimrulkayes/" target="blank">
-    <img src="./images/fb.svg" style="max-width: 100%; margin-right: 10px;" >
+<a href="https://www.facebook.com/emimrulkayes0" target="blank">
+    <img src="./images/social/facebook.svg" style="max-width: 100%; margin-right: 10px;" >
 </a> 
-<a href="https://www.linkedin.com/in/emimrulkayes/" target="blank">
-    <img src="./images/linkedin.svg" style="max-width: 100%; margin-right: 10px;" >
+<a href="https://www.linkedin.com/in/emimrulkayes" target="blank">
+    <img src="./images/social/LinkedIn.svg" style="max-width: 100%; margin-right: 10px;" >
 </a> 
-<a href="https://twitter.com/emimrulkayes/" target="blank">
-    <img src="./images/twitter.svg" style="max-width: 100%; margin-right: 10px;" >
+<a href="https://twitter.com/emimrulkayes" target="blank">
+    <img src="./images/social/Twitter.svg" style="max-width: 100%; margin-right: 10px;" >
+</a> 
+<a href="live:.cid.80dc6ee16fce68fb" target="blank">
+    <img src="./images/social/skype.svg" style="max-width: 100%; margin-right: 10px; " >
+</a> 
+<a href="https://www.instagram.com/em.imrulkayes" target="blank">
+    <img src="./images/social/instagram.svg" style="max-width: 100%; margin-right: 10px; " >
 </a> 
 <a href="mailto:emimrulkayes@gmail.com" target="blank">
-    <img src="./images/skype.svg" style="max-width: 100%; margin-right: 10px; " >
-</a> 
-<a href="mailto:emimrulkayes@gmail.com" target="blank">
-    <img src="./images/gmail.svg" style="max-width: 100%; margin-right: 10px; " >
+    <img src="./images/social/gmail.svg" style="max-width: 100%; margin-right: 10px; " >
 </a> 
 <br>
 <br>
@@ -29,7 +32,7 @@ Besides these, I'm a Muslim who believes in :heart:Allah and, the :heart:Prophet
 <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png"></p>
 
 ### :computer: Things I code with:
-<img src="./images/sass.svg" style="margin-right: 10px;" > <img src="./images/js.svg" style="margin-right: 10px;" > <img src="./images/react.svg" style="margin-right: 10px;" > <img src="./images/express.svg" style="margin-right: 10px;" > <img src="./images/mongo.svg" style="margin-right: 10px;" > <img src="./images/node.svg" style="margin-right: 10px;" > <img src="./images/vs.svg" style="margin-right: 10px;" > <img src="./images/git.svg" style="margin-right: 10px;" >
+<img src="./images/code/html.svg" style="margin-right: 10px;" > <img src="./images/code/css.svg" style="margin-right: 10px;" > <img src="./images/code/bootstrap.svg" style="margin-right: 10px;" > <img src="./images/code/scss.svg" style="margin-right: 10px;" > <img src="./images/code/JS.svg" style="margin-right: 10px;" > <img src="./images/code/react.svg" style="margin-right: 10px;" > <img src="./images/code/node.svg" style="margin-right: 10px;" > <img src="./images/code/express.svg" style="margin-right: 10px;" > <img src="./images/code/Mongodb.svg" style="margin-right: 10px;" >
 
 ### 🌱 I Learn code with:
 <a href="https://web.programming-hero.com/" target="blank">
