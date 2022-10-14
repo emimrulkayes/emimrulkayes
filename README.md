@@ -5,7 +5,7 @@ Besides these, I'm a Muslim who believes in :heart:Allah and, the :heart:Prophet
 
 ### :computer: Connect with me!
 <a href="https://www.facebook.com/emimrulkayes0" target="blank"> <img src="./images/social/facebook.svg" style="max-width: 100%; margin-right: 10px;" > </a> <a href="https://www.linkedin.com/in/emimrulkayes" target="blank"> <img src="./images/social/LinkedIn.svg" style="max-width: 100%; margin-right: 10px;" > </a> <a href="https://twitter.com/emimrulkayes" target="blank"> <img src="./images/social/Twitter.svg" style="max-width: 100%; margin-right: 10px;" > </a> <br/>
-<a href="live:.cid.80dc6ee16fce68fb" target="blank"> <img src="./images/social/skype.svg" style="max-width: 100%; margin-right: 10px; " > </a> <a href="https://www.instagram.com/em.imrulkayes" target="blank"> <img src="./images/social/instagram.svg" style="max-width: 100%; margin-right: 10px; " > </a> <a href="mailto:emimrulkayes@gmail.com" target="blank"> <img src="./images/social/gmail.svg" style="max-width: 100%; margin-right: 10px; " > </a> 
+<a href="https://join.skype.com/invite/pAvVLbmxJy2G" target="blank"> <img src="./images/social/skype.svg" style="max-width: 100%; margin-right: 10px; " > </a> <a href="https://www.instagram.com/em.imrulkayes" target="blank"> <img src="./images/social/instagram.svg" style="max-width: 100%; margin-right: 10px; " > </a> <a href="mailto:emimrulkayes@gmail.com" target="blank"> <img src="./images/social/gmail.svg" style="max-width: 100%; margin-right: 10px; " > </a> 
 <br/>
 <br/>
 
