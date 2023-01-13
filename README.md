@@ -1,5 +1,5 @@
 ### Hello there 👋
-I'm :boy:MD. IMRUL KAYES. a Professional Web Developer from Bangladesh. I spend most of my time coding outstanding projects and, learning new code. <br> Currently, I am working on <a href="https://xpeedstudio.com/">Xpeed Studio</a> as a Frontend Developer <br>
+I'm :boy:MD. IMRUL KAYES. a Professional Web Developer from Bangladesh. I spend most of my time coding outstanding projects and, learning new code. ⚡Currently, I am working on <a href="https://xpeedstudio.com/">Xpeed Studio</a> as a Frontend Developer.:computer: <br>
 
 Besides these, I'm a Muslim who believes in :heart:Allah and, the :heart:Prophet Mohammad (sa:).
 
