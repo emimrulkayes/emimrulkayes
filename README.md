@@ -16,17 +16,20 @@ Besides these, I'm a Muslim who believes in :heart:Allah and, the :heart:Prophet
 <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png"></p>
 
 ### :computer: Things I code with:
-<a href="https://www.w3schools.com/html/html_intro.asp"> <img src="./images/code/html.svg" style="margin-right: 10px;" > </a>
-<a href="https://www.w3schools.com/css/css_intro.asp"> <img src="./images/code/css.svg" style="margin-right: 10px;" > </a>
-<a href="https://www.w3schools.com/bootstrap5/bootstrap_get_started.php"> <img src="./images/code/bootstrap.svg" style="margin-right: 10px;" > </a>
-<a href="https://sass-lang.com"> <img src="./images/code/scss.svg" style="margin-right: 10px;" > </a>
+<a href="https://www.w3schools.com/html/html_intro.asp" target="blank"> <img src="./images/code/html.svg" style="margin-right: 10px;" > </a>
+<a href="https://www.w3schools.com/css/css_intro.asp" target="blank"> <img src="./images/code/css.svg" style="margin-right: 10px;" > </a>
+<a href="https://getbootstrap.com/" target="blank"> <img src="./images/code/bootstrap.svg" style="margin-right: 10px;" > </a>
+<a href="https://tailwindui.com/" target="blank"> <img src="./images/code/tailwind.svg" style="margin-right: 10px;" > </a>
+<a href="https://sass-lang.com/" target="blank"><img src="./images/code/scss.svg" style="margin-right: 10px;" ></a>
 <br/>
-<a href="https://www.w3schools.com/js/js_intro.asp"> <img src="./images/code/JS.svg" style="margin-right: 10px;" > </a>
-<a href="https://reactjs.org/docs/getting-started.html"> <img src="./images/code/react.svg" style="margin-right: 10px;" > </a>
-<a href="https://nodejs.dev/learn/introduction-to-nodejs"> <img src="./images/code/node.svg" style="margin-right: 10px;" > </a>
-<a href="https://expressjs.com"> <img src="./images/code/express.svg" style="margin-right: 10px;" > </a>
+  
+<a href="https://www.javascript.com/" target="blank"> <img src="./images/code/JS.svg" style="margin-right: 10px;" > </a>
+<a href="https://www.typescriptlang.org/" target="blank"> <img src="./images/code/ts.svg" style="margin-right: 10px;" > </a>
+<a href="https://reactjs.org/" target="blank"> <img src="./images/code/react.svg" style="margin-right: 10px;" > </a>
+<a href="https://nodejs.org/en/" target="blank"> <img src="./images/code/node.svg" style="margin-right: 10px;" > </a>
+<a href="https://expressjs.com" target="blank"> <img src="./images/code/express.svg" style="margin-right: 10px;" > </a>
 <br/>
-<a href="https://www.mongodb.com"> <img src="./images/code/Mongodb.svg" style="margin-right: 10px;" > </a>
+<a href="https://www.mongodb.com" target="blank"> <img src="./images/code/Mongodb.svg" style="margin-right: 10px;" > </a>
 
 
 ### 🌱 I Learn code with:
