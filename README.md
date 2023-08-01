@@ -12,7 +12,7 @@
     <li>Pronouns: he/him</li>
     <br />
 </ul>
-<p>⚡<u>Fun fact</u>: <strong>I Like to Travel:</strong> I am fascinated by travel because I learn about new cultures and meet people. I especially love visiting art museums and historical landmarks everywhere I go. </p>
+<div>⚡<u>Fun fact</u>:<strong>I Like to Travel:</strong> I am fascinated by travel because I learn about new cultures and meet people. I especially love visiting art museums and historical landmarks everywhere I go. </div>
 
 <!--
 **emimrulkayes/emimrulkayes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
