@@ -2,18 +2,16 @@
 
 <p dir="auto">I care about Web Design & Development, digital accessibility, and good user experience.</p>
 <p dir="auto">Besides these, I'm a Muslim who believes in Allah and, The Prophet Mohammad (sa:).</p>
-
-
 <br/>
 <ul dir="auto">
     <li>I'm currently working on Front-end Web Development at <a href="https://www.xpeedstudio.com/">XpeedStudio</a></li>
     <li>I'm currently learning 🌱<a href="https://www.typescriptlang.org/" rel="nofollow">TypeScript</a> Deep Dive.</li>
     <li>I enjoy learning new code and sharing my Knowledge.</a></li>
+    <li>I spend most of my time coding outstanding projects and learning new code.</a></li>
     <li>Contact me via <a href="https://www.linkedin.com/in/emimrulkayes/" rel="nofollow">LinkedIn</a> or <a href="https://twitter.com/emimrulkayes" rel="nofollow">Twitter @emimrulkayes</a></li>
     <li>Pronouns: he/him</li>
-    <li>⚡Fun fact: <ol>I like to Travel: I am fascinated by travel because I learn about new cultures and meet people. I especially love visiting art museums and historical landmarks everywhere I go.</ol> </li>
+    <li>⚡Fun fact: <strong>I like to Travel: </strong> I am fascinated by travel because I learn about new cultures and meet people. I especially love visiting art museums and historical landmarks everywhere I go. </li>
 </ul>
-
 
 <!--
 **emimrulkayes/emimrulkayes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
