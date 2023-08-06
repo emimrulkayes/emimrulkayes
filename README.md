@@ -8,7 +8,7 @@
     <li>I'm currently learning 🌱<a href="https://www.typescriptlang.org/" rel="nofollow">TypeScript</a> Deep Dive.</li>
     <li>I enjoy learning new code and sharing my Knowledge.</a></li>
     <li>I spend most of my time coding outstanding projects and learning new code.</a></li>
-    <li>Contact me via <a href="https://www.linkedin.com/in/emimrulkayes/" rel="nofollow">LinkedIn</a> or <a href="https://twitter.com/emimrulkayes" rel="nofollow">Twitter @emimrulkayes</a></li>
+    <li>Contact me via <a href="https://www.linkedin.com/in/emimrulkayes/" rel="nofollow">🔗 LinkedIn</a>, <a href="https://www.facebook.com/emimrulkayes71" rel="nofollow">😔 Facebook</a> or <a href="https://twitter.com/emimrulkayes" rel="nofollow">Twitter @emimrulkayes</a></li>
     <li>Pronouns: he/him</li>
 </ul>
 <p>⚡Fun fact : <strong>I Like to Travel.</strong> I am fascinated by travel because I learn about new cultures and meet people. I especially love visiting art museums and historical landmarks everywhere I go. </p>
